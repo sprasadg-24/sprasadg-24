@@ -14,7 +14,7 @@ I am actively seeking full-time opportunities as a Python Django Developer, wher
 - **Languages**: Python, JavaScript, HTML , CSS , C#
 - **Frameworks and Technologies**: Django, .NET, Azure
 - **Certifications**:
-  - Meta Back-End Developer Professional Certificate 
+
   - MTA: Introduction to Programming Using Python (February 15, 2022)
   - Microsoft Certified Trainer
 - **Other Skills**: Training and Development, Technical Evangelism, Community Engagement
