@@ -4,8 +4,7 @@ I'm a dedicated IT professional with over 5 years of experience as a freelance M
 
 ## 🌱 What I'm Currently Working On
 
-I am passionate about Python and Django, and I am actively working on various projects in this space. My recent completion of the Meta Back-End Developer Professional Certificate on Coursera has further solidified my skills and knowledge in back-end development.
-
+I am passionate about Python and Django, and I am actively working on various projects in this space. 
 ## 🎯 Career Objective
 
 I am actively seeking full-time opportunities as a Python Django Developer, where I can leverage my extensive training experience and technical skills to contribute to innovative projects.
